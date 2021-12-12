@@ -5,7 +5,7 @@ class Klasa_odeca{
     private $komentar;
     private $ocena;
 
-    public class __constructor($korisnicko_ime,$komentar,$ocena){
+    function __construct($korisnicko_ime,$komentar,$ocena){
         $this->korisnicko_ime=$korisnicko_ime;
         $this->komentar=$komentar;
         $this->ocena=$ocena;

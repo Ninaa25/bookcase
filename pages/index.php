@@ -27,10 +27,11 @@
      
 
     <div class="tekst">
-        <p><span id="m">F</span>ashion je mesto na kom možete pronaći sve što Vam je potrebno. Imamo širok asortiman odeće, obuće, 
-            kao i raznih aksesoara. Ukoliko želite, možete se prijaviti na naš <a href="#newsletter">Newsletter</a>  kako bi Vam svakodnevno
+        <p><span id="m">F</span>ashion je mesto koje prati sve aktuelne trendove i izdvaja najbolje i najoriginalnije komade koji se vrte u svetu mode.
+            Predstavljamo Vam širok asortiman odeće, obuće, kao i raznih aksesoara. 
+            Ukoliko želite, možete se prijaviti na naš <a href="#newsletter">Newsletter</a>  kako bi Vam svakodnevno
             stizale informacije o novim komadima u našem raznovrsnom asortimanu. Ovo je mesto na kom možete ostavljati svoje komentare, 
-            sugestije i ocene i na taj način nam pomognete da postanemo Vaše omiljeno mesto za kupovinu.
+            sugestije i ocene i na taj način nam pomoći da postanemo Vaše omiljeno mesto za kupovinu.
 
         </p>
     </div>    
@@ -51,8 +52,8 @@
             </div>
             <div class="col-1"></div>
             <div class="col-3">
-                <p>"Delovi jezika, kulture, pejzaža, hrane i dizajna koje otkrivam širom sveta mogu se pronaći u svakom komadu nakita koje posedujem."</p>
-                <p>Ivanka Tramp</p> 
+                <p>"Obucite se otrcano i oni se sećaju haljine; obucite se besprekorno i oni će se sećati žene"</p>
+                <p>Coco Chanel</p> 
             </div>
 
         </div>

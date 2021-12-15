@@ -4,22 +4,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../css/style.css">
+    
     <title>FASHION</title>
 
-    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-    <div id="gore-levo">
-        <img src="images/slika1.jpg" alt="">
+    <div id="stolica">
+        <img src="../images/slika1.jpg" width="47%" alt="">
     </div>
-    <div id="gore-desno">
-        <img src="images/slika3.jpg" alt="">
+    <div id="ruka">
+        <img src="../images/slika3.jpg" width="48%" alt="">
     </div>
     <h1>FASHION</h1>
     
-    <div id="first-img" >
-        <img src="images/slika5.jpg" alt="">
+    <div id="bela" >
+        <img src="../images/slika5.jpg" width="15%" alt="">
     </div>
 
      
@@ -60,15 +62,15 @@
         <div class="row">
             <div class="col-4">
                 <h3>Odeća</h3>
-                <a href="pages/odeca.php" target="_blank"><img src="images/slika6.jpg" alt=""></a>
+                <a href="pages/odeca.php" target="_blank"><img src="../images/slika6.jpg" alt=""></a>
             </div>
             <div class="col-4">
                 <h3>Obuća</h3>
-                <a href="pages/obuca.php" target="_blank"><img src="images/slika20.jpg" alt=""></a>
+                <a href="pages/obuca.php" target="_blank"><img src="../images/slika20.jpg" alt=""></a>
             </div>
             <div class="col-4">
                 <h3>Aksesoari</h3>
-                <a href="pages/aksesoari.php" target="_blank"><img src="images/slika9.jpg" alt=""></a> 
+                <a href="pages/aksesoari.php" target="_blank"><img src="../images/slika9.jpg" alt=""></a> 
             </div>
           </div>
     </div>

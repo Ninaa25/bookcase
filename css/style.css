@@ -1,16 +1,17 @@
 body{
     
-    background-color: #d1af91;
+    background-color: rgb(14, 12, 12);
     color: white;
 }
+
 a{
-    color:#008282;
+    color:#5f3a9b;
     font-style: italic;
     text-decoration: underline;
 }
 
 #m{
-    color: #008282;
+    color: #5f3a9b;
     font-size: 35px;
     font-family: 'Sansita Swashed', cursive;
 }
@@ -44,15 +45,11 @@ h3{
     text-align: justify;
 }
 
-#{
-    height: 100px;
+#bela{
+    height: 220px;
     position: static;
     text-align: center;
     margin-top: 50px;
-}
-
-# img{
-    height: 100px;
 }
 
 .container{
@@ -60,7 +57,7 @@ h3{
     text-align: center;
     position: static;
     margin-bottom: 100px;
-    color: #008282;
+    color: #5f3a9b;
 }
 
 .container img{
@@ -78,7 +75,7 @@ h3{
 
 #newsletter{
     padding-top: 30px;
-    background-color: #008282;
+    background-color: #3e2f57;
     padding-bottom: 60px;
     text-align: center;
     border-top: 3px solid white;
@@ -116,21 +113,22 @@ input[type=text], .btn-dark {
     font-size: 20px;
 }
 
-
-#{
+#stolica{
     top: 0;
     left: 0;
-    position: absolute;
+    position: absolute;    
 }
 
-#{
-    top: 0;
-    right: 0;
-    position: absolute;
+
+#ruka{
+    position: absolute;    
+    top: 0px;
+    right: 0px;
     transform: scaleX(-1);
 }
 
-#okvir{
 
+#okvir{
+    
     position: relative;
 }

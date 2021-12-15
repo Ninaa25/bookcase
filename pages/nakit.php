@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Aksesoari</title>
 
     <!-- h1 font -->
     <link href="https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap" rel="stylesheet">
@@ -13,7 +13,8 @@
 </head>
 <body>
     <?php
-    include "../classes/database.php";?>
+    include "../classes/database.php";
+    ?>
 
     <div id="stolica">
         <img src="../images/slika1.jpg" width="47%" alt="">
@@ -39,7 +40,7 @@
             </div>
             <div class="col-1"><p>Nice detail</p></div>
             <div class="col-3">
-                <img src="../images/slika9" alt="">
+                <img src="../images/slika9.jpg" alt="">
             </div> 
             <div class="col-1"><p>Pink purse</p></div>
         </div>

@@ -1,5 +1,5 @@
 body{
-    background-color: #d1af91;
+    background-color: rgb(14, 12, 12);
     color: white;
 }
 
@@ -19,12 +19,12 @@ h3{
 
 h1 span{
     font-size: 80px;
-    color: #008282;
+    color: #5f3a9b;
 }
 
 #citat{
     margin-top: 30px;
-    color: #008282;
+    color: #5f3a9b;
     font-style: italic;
     width: 50%;
     text-align: center;
@@ -34,16 +34,18 @@ h1 span{
 }
 
 
-#gore-levo{
+#stolica{
+    width: 47%;
     top: 0;
     left: 0;
-    position: absolute;
+    position: absolute;    
 }
 
-#gore-desno{
-    top: 0;
-    right: 0;
-    position: absolute;
+#ruka{
+    width: 47%;
+    position: absolute;    
+    top: 0px;
+    right: 0px;
     transform: scaleX(-1);
 }
 
@@ -84,7 +86,7 @@ h1 span{
 
 .col-1{
     border-radius: 50%;
-    border: 1px solid #008282;
+    border: 1px solid #5f3a9b;
     margin: auto;
     padding: 7px;
 }
@@ -96,7 +98,7 @@ h1 span{
 
 .recenzije{
     border-top: 3px solid white;
-    background-color: #008282;
+    background-color: #5f3a9b;
     padding-bottom: 100px;
     text-align: center;
 }
@@ -148,7 +150,7 @@ hr{
 .tabela{
     
     padding-bottom: 20px;
-    background-color: #008282;
+    background-color: #5f3a9b;
 }
 
 #sakrivena_tabela{
@@ -158,12 +160,12 @@ hr{
 
 .pretraga{
     padding-bottom: 20px;
-    background-color: #008282;
+    background-color: #5f3a9b;
 }
 
 
 .prikazi_moje{
-    background-color: #008282;
+    background-color: #5f3a9b;
     text-align: center;
     padding-bottom: 20px;
 }
@@ -171,13 +173,13 @@ hr{
 
 #pretraga{
     display: none;
-    background-color: #008282;
+    background-color: #5f3a9b;
     text-align: center;
     padding-bottom: 20px;
 }
 
 #moja_tabela{
-    background-color: #008282;
+    background-color: #5f3a9b;
     /* display: none; */
     padding-bottom: 20px;
 }
@@ -200,13 +202,13 @@ hr{
 }
 
 .cont{
-    background-color: #008282;
+    background-color: #5f3a9b;
     text-align: center;
     padding-bottom: 20px;
 }
 
 #formpost{
-    background-color: #008282;
+    background-color: #5f3a9b;
     text-align: center;
     padding-bottom: 20px;
 }

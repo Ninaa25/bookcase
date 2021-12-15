@@ -1,13 +1,8 @@
 body{
-    /* background-color: #E0C5AA; */
-    /* background-color: #d0aa88; */
+    
     background-color: #d1af91;
     color: white;
 }
-#kutak{
-    color: #008282;
-}
-
 a{
     color:#008282;
     font-style: italic;
@@ -49,14 +44,14 @@ h3{
     text-align: justify;
 }
 
-#first-img{
+#{
     height: 100px;
     position: static;
     text-align: center;
     margin-top: 50px;
 }
 
-#first-img img{
+# img{
     height: 100px;
 }
 
@@ -122,13 +117,13 @@ input[type=text], .btn-dark {
 }
 
 
-#gore-levo{
+#{
     top: 0;
     left: 0;
     position: absolute;
 }
 
-#gore-desno{
+#{
     top: 0;
     right: 0;
     position: absolute;

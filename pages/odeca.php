@@ -9,10 +9,14 @@
     <!-- h1 font -->
     <link href="https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/odeca.css">
+
+    <script src="../javascript/odeca.js"></script>
 </head>
 
 <body>
 <?php include '../classes/database.php'; ?>
+
+<?php include '../connection.php' ?>
 
 <div id="stolica">
         <img src="../images/slika1.jpg" width="47%" alt="">
@@ -118,36 +122,33 @@
 </div>
 </div>
 
-<!-- <-- Modal content -->
-<div id="myModal" class="modal fade" role="dialog">
-<div class="modal-dialog">
-<div class="modal-content">
-  <div class="modal-header">
-    <button type="button" class="close" data-dismiss="modal">&times;</button>
-    <h4 class="modal-title">Modal Header</h4>
-  </div>
-  <div class="modal-body">
-    <label for="">Korisnicko ime:</label>
-    <input type="text" id="korisnicko_ime_update" class="form-control">
-    <label for="">Komentar:</label>
-    <input type="text" id="komentar_update" class="form-control">
-    <label for="">Ocena:</label>
-    <select name="ocena_update" id="ocena_update" class="form-control" >
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
-            <option value="4">4</option>
-            <option value="5">5</option>
-          </select>
-  </div>
-  <div class="modal-footer">
-      <a href="#" id="save" name="save" class="btn btn-primary pull-right">Update</a>
-    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-  </div>
-</div>
+ <!-- Modal content-->
+ <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Modal Header</h4>
+      </div>
+      <div class="modal-body">
+        <label for="">Korisnicko ime:</label>
+        <input type="text" id="korisnicko_ime_update" class="form-control">
+        <label for="">Komentar:</label>
+        <input type="text" id="komentar_update" class="form-control">
+        <label for="">Ocena:</label>
+        <select name="ocena_update" id="ocena_update" class="form-control" >
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+              </select>
+      </div>
+      <div class="modal-footer">
+          <a href="#" id="save" name="save" class="btn btn-primary pull-right">Update</a>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
 
+  </div>
 </div>
-</div>
-
 </body>
 </html>

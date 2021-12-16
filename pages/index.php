@@ -6,11 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="../css/style.css">
-    
+    <script src="javascript/index.js"></script>
+
     <title>FASHION</title>
 
 </head>
 <body>
+
+<?php include '../connection.php' ?>
 
     <div id="stolica">
         <img src="../images/slika1.jpg" width="47%" alt="">
@@ -63,15 +66,15 @@
         <div class="row">
             <div class="col-4">
                 <h3>Odeća</h3>
-                <a href="pages/odeca.php" target="_blank"><img src="../images/slika6.jpg" alt=""></a>
+                <a href="../pages/odeca.php" target="_blank"><img src="../images/slika6.jpg" alt=""></a>
             </div>
             <div class="col-4">
                 <h3>Obuća</h3>
-                <a href="pages/obuca.php" target="_blank"><img src="../images/slika20.jpg" alt=""></a>
+                <a href="../pages/obuca.php" target="_blank"><img src="../images/slika20.jpg" alt=""></a>
             </div>
             <div class="col-4">
                 <h3>Aksesoari</h3>
-                <a href="pages/aksesoari.php" target="_blank"><img src="../images/slika9.jpg" alt=""></a> 
+                <a href="../pages/nakit.php" target="_blank"><img src="../images/slika9.jpg" alt=""></a> 
             </div>
           </div>
     </div>

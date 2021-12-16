@@ -101,10 +101,7 @@ class Database{
         }
     }
 
-/*  if (!$q=mysql_query($upit)){
-    echo "Nastala je greska pri izvodenju upita<br/>" . mysql_query();
-    die();
-*/
+
 
     public function update($table,$values){
         if($table=="odeca" || $table=="obuca" || $table=="nakit"){
@@ -118,26 +115,7 @@ class Database{
             return false;
         }
     }
-/*
-if (mysql_query($upit)){
-if (mysql_affected_rows() > 0 ){
-echo "<p>Novost je uspešno izmenjena.</p>";
-} else {
-echo "<p>Novost nije izmenjena.</p>";
-}
-} else {
-echo "<p>Nastala je greška pri izmeni novosti</p>" . mysql_error();
-}
-} else {
-echo "<p>Nisu prosleđeni parametri za izmenu";
-}
-break;
-default:
-echo "<p>Nepostojeća akcija!</p>";
-break;
-}
 
-*/
     function executeQuery($query){
         if($this->result = $this->dblink->query($query)){
             return true;
@@ -152,11 +130,6 @@ break;
     function getResult(){
         return $this->result;
     }
-
-
-
-
-
 
 }
 ?>

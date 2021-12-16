@@ -6,7 +6,7 @@ $(document).ready(function(){
         var ocena_nakit=$('#ocena_nakit').val();
         if(korisnicko_ime_nakit!="" && komentar_nakit!="" && ocena_nakit!=""){
             $.ajax({
-                url:"../php/nakit_ajax.php",
+                url:"../ajax/nakit_ajax.php",
                 type: "POST",
                 data:{
                     korisnicko_ime_nakit: korisnicko_ime_nakit,
@@ -51,10 +51,9 @@ $(document).ready(function(){
     var btn=1;
         $.ajax({
             type: 'POST',
-            url: "../php/nakit_ajax.php",
+            url: "../ajax/nakit_ajax.php",
             data: {
-                "btn":btn
-            },
+                "btn":btn },
             dataType: "text",
             success: function(response){
                 $("#tabela").html(response);
@@ -73,7 +72,7 @@ function deleteAjax(id){
     if(confirm('Da li ste sigurni?')){
         $.ajax({
             type:'post',
-            url:'../php/nakit_ajax.php',
+            url:'../ajax/nakit_ajax.php',
             data:
             {delete_id: id},
             success:function(data){
@@ -105,7 +104,7 @@ $(document).ready(function(){
             var ocena=$('#ocena_update').val();
     
             $.ajax({
-                url:'../php/nakit_ajax.php',
+                url:'../ajax/nakit_ajax.php',
                 method: 'post',
                 data: {
                     korisnicko_ime: korisnicko_ime,
@@ -138,7 +137,7 @@ $(document).ready(function(){
         }
         $.ajax({
             type: 'POST',
-            url: "../php/nakit_ajax.php",
+            url: "../ajax/nakit_ajax.php",
             data: {
                 "search_post_btn":1,
                 "ime": ime

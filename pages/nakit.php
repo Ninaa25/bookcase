@@ -4,17 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aksesoari</title>
+    <title>nakit</title>
 
     <!-- h1 font -->
     <link href="https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap" rel="stylesheet">
+    <!-- bootstrap js -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <!-- bootstrap css -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/odeca.css">
 
+    <link rel="stylesheet" href="../css/odeca.css">
     <script src="../js/nakit.js"></script>
 
 </head>
@@ -85,16 +86,16 @@
         <h3>Recenzije:</h3>
         <form class="forma_rec" id="forma_rec" action="" method="post">
             <div class="ime">
-            <input type="text" name="ime_aksesoari" id="ime_aksesoari" placeholder="Korisničko ime">
+            <input type="text" name="ime_nakit" id="ime_nakit" placeholder="Korisničko ime">
             </div>
             <br>
             <div class="komentar">
-            <input type="text" name="komentar_aksesoari" id="komentar_aksesoari" placeholder="Komentar">
+            <input type="text" name="komentar_nakit" id="komentar_nakit" placeholder="Komentar">
             </div>
             <br>
             <p>Ocena - Opšti utisak od 1 do 5:</p>
             <br>
-            <select name="ocena_aksesoari" id="ocena_aksesoari">
+            <select name="ocena_nakit" id="ocena_nakit">
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -102,7 +103,7 @@
                 <option value="5">5</option>
               </select>
               <br>
-              <button  type="submit" class="btn btn-dark" name="posalji_aksesoari" id="posalji_aksesoari">Postavi recenziju</button>
+              <button  type="submit" class="btn btn-dark" name="posalji_nakit" id="posalji_nakit">Postavi recenziju</button>
         </form>
     <hr>
     <button type="button" class="btn btn-dark" name="prikazi_sve" id="prikazi_sve">Prikaži sve recenzije</button>

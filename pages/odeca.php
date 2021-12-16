@@ -43,44 +43,44 @@
             <img src="../images/slika14.jpg" alt="">
         </div>
         <div class="col-1">
-            <p>Ripped mom jeans 1</p>
+            <p>Crna haljina plus sljokice?Oo, da... </p>
         </div>
         <div class="col-3">
             <img src="../images/slika15.jpg" alt="">
         </div>
-        <div class="col-1"><p>Ripped mom jeans 2</p></div>
+        <div class="col-1"><p>Uska crna haljina koju svaka zena treba da ima</p></div>
         <div class="col-3">
             <img src="../images/slika16.jpg" alt="">
         </div> 
-        <div class="col-1"><p>Ripped mom jeans 3</p></div>
+        <div class="col-1"><p>Nabori su veliki trend ove sezone</p></div>
     </div>
     <div class="row">
         <div class="col-3">
             <img src="../images/slika17.jpg" alt="">
         </div>
-        <div class="col-1"><p>Corduroy white overshirt</p></div>
+        <div class="col-1"><p>Sik je novi trend</p></div>
         <div class="col-3">
             <img src="../images/slika4.jpg" alt="">
         </div>
-        <div class="col-1"><p>Overshirt with pockets</p></div>
+        <div class="col-1"><p>Kozna jakna sa resama..da, da, da!</p></div>
         <div class="col-3">
             <img src="../images/slika13.jpg" alt="">
         </div>
-        <div class="col-1"><p>Oversized check overshirt</p></div>
+        <div class="col-1"><p>Za svecane prilike idealna!</p></div>
     </div>
     <div class="row">
         <div class="col-3">
             <img src="../images/slika36.jpg" alt="">
         </div>
-        <div class="col-1"><p>Ribbed cropped sweater</p></div>
+        <div class="col-1"><p>Sako ili ipak kostim ili pak konobar?</p></div>
         <div class="col-3">
             <img src="../images/slika37.jpg" alt="">
         </div>
-        <div class="col-1"><p>T-shirt with back bow</p></div>
+        <div class="col-1"><p>Animal print je veliko DA</p></div>
         <div class="col-3">
             <img src="../images/slika38.jpg" alt="">
         </div>
-        <div class="col-1"><p>Hammer Halloween T-shirt</p></div>
+        <div class="col-1"><p>Sako sa izrezanim rukavima, jer zasto biti obican?</p></div>
     </div>
 </div>
 <div class="recenzije">

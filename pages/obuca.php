@@ -43,44 +43,44 @@
                 <img src="../images/slika2.jpg" alt="">
             </div>
             <div class="col-1">
-                <p>Stretch platform ankle boots  </p>
+                <p>*gold*</p>
             </div>
             <div class="col-3">
                 <img src="../images/slika31.jpg" alt="">
             </div>
-            <div class="col-1"><p>Platform ankle boots with track sole</p></div>
+            <div class="col-1"><p>Dijamanti na cizmicama, ogromno DA</p></div>
             <div class="col-3">
                 <img src="../images/slika23.jpg" alt="">
             </div> 
-            <div class="col-1"><p>Flat leather sock-style boots</p></div>
+            <div class="col-1"><p>Sijaj, sijaj</p></div>
         </div>
         <div class="row">
             <div class="col-3">
                 <img src="../images/slika22.jpg" alt="">
             </div>
-            <div class="col-1"><p>Slingback high-heel shoes with vinyl trim</p></div>
+            <div class="col-1"><p>Udobne, tople, fensi izgled</p></div>
             <div class="col-3">
                 <img src="../images/slika32.jpg" alt="">
             </div>
-            <div class="col-1"><p>Metha vanilla high heel shoes</p></div>
+            <div class="col-1"><p>U njima ce se svako osetiti kao medo</p></div>
             <div class="col-3">
                 <img src="../images/slika35.jpg" alt="">
             </div>
-            <div class="col-1"><p>Metallic white high-heel shoes</p></div>
+            <div class="col-1"><p>Udobnost na prvom mestu</p></div>
         </div>
         <div class="row">
             <div class="col-3">
                 <img src="../images/slika18.jpg" alt="">
             </div>
-            <div class="col-1"><p>Sock-style mesh high top trainers</p></div>
+            <div class="col-1"><p>Crni cirkoni su in ove sezone</p></div>
             <div class="col-3">
                 <img src="../images/slika20.jpg" alt="">
             </div>
-            <div class="col-1"><p>Mickey & Minnie Mouse trainers</p></div>
+            <div class="col-1"><p>Ove spic cizmice su #musthave</p></div>
             <div class="col-3">
                 <img src="../images/slika34.jpg" alt="">
             </div>
-            <div class="col-1"><p>Mono- chrome platform trainers</p></div>
+            <div class="col-1"><p>WOOOOOOW</p></div>
         </div>
     </div>
 

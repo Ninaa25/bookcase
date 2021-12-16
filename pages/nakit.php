@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>nakit</title>
+    <title>Nakit</title>
 
     <!-- h1 font -->
     <link href="https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap" rel="stylesheet">
@@ -42,44 +42,44 @@
                 <img src="../images/slika8.jpg" alt="">
             </div>
             <div class="col-1">
-                <p>Quilted backpack</p>
+                <p>Kozni, crni ranac, poznatog bredna "LIJO", obara sa nogu</p>
             </div>
             <div class="col-3">
                 <img src="../images/slika7.jpg" alt="">
             </div>
-            <div class="col-1"><p>Nice detail</p></div>
+            <div class="col-1"><p>Mali, ali upectaljiv privezak</p></div>
             <div class="col-3">
                 <img src="../images/slika9.jpg" alt="">
             </div> 
-            <div class="col-1"><p>Pink purse</p></div>
+            <div class="col-1"><p>PINK torbica je #musthave!!</p></div>
         </div>
         <div class="row">
             <div class="col-3">
                 <img src="../images/slika24.jpg" alt="">
             </div>
-            <div class="col-1"><p>SLIPPERS AND TOILETRY BAG SET</p></div>
+            <div class="col-1"><p>Da se uvek osetimo kao kod kuce</p></div>
             <div class="col-3">
                 <img src="../images/slika27.jpg" alt="">
             </div>
-            <div class="col-1"><p>KNIT BEANIE WITH POMPOM</p></div>
+            <div class="col-1"><p>Uvek i zauvek u trendu</p></div>
             <div class="col-3">
                 <img src="../images/slika25.jpg" alt="">
             </div>
-            <div class="col-1"><p>SOFT KNIT SCARF</p></div>
+            <div class="col-1"><p>Mekan, nezan i neodoljiv</p></div>
         </div>
         <div class="row">
             <div class="col-3">
                 <img src="../images/slika30.jpg" alt="">
             </div>
-            <div class="col-1"><p>LEATHER BELT</p></div>
+            <div class="col-1"><p>Braon kozni kais koji se savrseno slaze uz teksas</p></div>
             <div class="col-3">
                 <img src="../images/slika29.jpg" alt="">
             </div>
-            <div class="col-1"><p>STRETCH BELT WITH STONE BUCKLE</p></div>
+            <div class="col-1"><p>OLD BUT GOLD</p></div>
             <div class="col-3">
                 <img src="../images/slika28.jpg" alt="">
             </div>
-            <div class="col-1"><p>RHINESTONE BELT</p></div>
+            <div class="col-1"><p>Perfect fit</p></div>
         </div>
     </div>
     <div class="recenzije">

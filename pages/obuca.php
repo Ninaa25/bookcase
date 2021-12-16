@@ -12,7 +12,7 @@
 </head>
 <body>
 <?php 
-    include '../php/connection.php';
+    include "../classes/database.php";
 ?>
 
     <div id="stolica">

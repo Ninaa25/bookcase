@@ -27,7 +27,7 @@
      
 
     <div class="tekst">
-        <p><span id="m">F</span>ashion je mesto koje prati sve aktuelne trendove i izdvaja najbolje i najoriginalnije komade koji se vrte u svetu mode.
+        <p><span id="m">F</span>ashion je mesto koje prati sve aktuelne trendove i izdvaja najbolje i najoriginalnije komade koji se trenutno nalaze u svetu mode.
             Predstavljamo Vam širok asortiman odeće, obuće, kao i raznih aksesoara. 
             Ukoliko želite, možete se prijaviti na naš <a href="#newsletter">Newsletter</a>  kako bi Vam svakodnevno
             stizale informacije o novim komadima u našem raznovrsnom asortimanu. Ovo je mesto na kom možete ostavljati svoje komentare, 

@@ -5,13 +5,13 @@ body{
 }
 
 a{
-    color:#5f3a9b;
+    color: #7e6e99;
     font-style: italic;
     text-decoration: underline;
 }
 
 #m{
-    color: #5f3a9b;
+    color: #7e6e99;
     font-size: 35px;
     font-family: 'Sansita Swashed', cursive;
 }
@@ -57,7 +57,7 @@ h3{
     text-align: center;
     position: static;
     margin-bottom: 100px;
-    color: #5f3a9b;
+    color: #7e6e99;
 }
 
 .container img{
@@ -75,7 +75,7 @@ h3{
 
 #newsletter{
     padding-top: 30px;
-    background-color: #3e2f57;
+    background-color: #7e6e99;
     padding-bottom: 60px;
     text-align: center;
     border-top: 3px solid white;
@@ -96,7 +96,7 @@ input[type=text], .btn-dark {
 
 .citati{
     margin-top: 80px;
-    color: white;
+    color: #7e6e99;
     font-style: italic;
     text-align: center;
     width: 70%;
@@ -106,7 +106,7 @@ input[type=text], .btn-dark {
 
 .citati .col-3 {
     padding-top:3px;
-    border: 6px solid white;
+    border: 6px solid #7e6e99;
 }
 
 .col-3 p{

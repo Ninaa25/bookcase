@@ -5,7 +5,7 @@ $(document).ready(function(){
         var mail=$('#mail').val();
         if(ime!="" && mail!=""){
             $.ajax({
-                url:"php/index_ajax.php",
+                url:"../ajax/index_ajax.php",
                 type: "POST",
                 data:{
                     ime: ime,

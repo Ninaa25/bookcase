@@ -13,7 +13,7 @@
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 
     <link rel="stylesheet" href="../css/style.css">
-    <script src="js/index.js"></script>
+    <script src="../js/index.js"></script>
 
     <title>FASHION</title>
 
@@ -37,11 +37,13 @@
      
 
     <div class="tekst">
-        <p><span id="m">F</span>ashion je mesto koje prati sve aktuelne trendove i izdvaja najbolje i najoriginalnije komade koji se trenutno nalaze u svetu mode.
-            Predstavljamo Vam širok asortiman odeće, obuće, kao i raznih aksesoara. 
+        <p><span id="m">F</span>ashion je mesto koje prati sve aktuelne trendove i izdvaja najbolje i najoriginalnije komade koji se trenutno nalaze u svetu mode. <br>
+            Reč  moda nagoveštava ono što je novo, što je savremeno. Nagoveštava neprestanu i ponekad nedokučivu promenu. Moda za čoveka
+            predstavlja sredstvo identifikacije, kao i socijalizacije, simboličku komunikaciju, predmet užitka i primenjenu umetnost.
+            Mi ćemo se potruditi da "modu" predstavimo baš Vama! <br>
             Ukoliko želite, možete se prijaviti na naš <a href="#newsletter">Newsletter</a>  kako bi Vam svakodnevno
             stizale informacije o novim komadima u našem raznovrsnom asortimanu. Ovo je mesto na kom možete ostavljati svoje komentare, 
-            sugestije i ocene i na taj način nam pomoći da postanemo Vaše omiljeno mesto za kupovinu.
+            sugestije i ocene i na taj način nam pomoći da postanemo Vaše omiljeno mesto gde možete pronaći ideje za kupovinu.
 
         </p>
     </div>    

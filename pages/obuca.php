@@ -80,7 +80,7 @@
             <div class="col-3">
                 <img src="../images/slika34.jpg" alt="">
             </div>
-            <div class="col-1"><p>WOOOOOOW</p></div>
+            <div class="col-1"><p>WOOOW</p></div>
         </div>
     </div>
 
@@ -135,7 +135,7 @@
 <div id="myModal" class="modal fade" role="dialog">
   <div class="modal-dialog">
 
-  <!-- Modal content-->
+  <!-- Modal content update--> 
   <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>

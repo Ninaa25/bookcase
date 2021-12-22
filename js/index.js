@@ -13,7 +13,7 @@ $(document).ready(function(){
                 },
                 cache: false,
                 success: function(dataResult){
-                    alert("Hvala Vam na prijavi");
+                    alert("Hvala Vam na prijavi!");
                         $("#forma_news").find('input:text').val('');
                         
                 }

@@ -5,7 +5,7 @@
         $mail=$_POST['mail'];
         $crud=new Database();
         $values = array($_POST['ime'],$_POST['mail']);
-        $crud->insert('newsletter',$values);
+        $crud->insert('newslettter',$values);
     }
 
 ?>

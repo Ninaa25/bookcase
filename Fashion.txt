@@ -1,0 +1,10 @@
+"Fasion" je sajt na kom mozete pronaci najbolje i najoriginalnije odevne komade koji se trenutno nalaze u svetu mode.
+Sastoji se od:
+-pocetne strane na kojoj se mozete prijaviti na naš "Newsletter" tako sto cete popuniti formu na kojoj se nalazi polje za ime i polje za email i na taj nacin cete se prijaviti za svakodnevna obavestenja o novim komadima.
+(podaci iz ovih polja se upisuju u bazu)
+-stranica "obuca", "odeca", "aksesoar", na kojima se nalaze slike top 9 stvari iz svake od navedenih kategorija kao i komentar na svaku od njih.
+Na kraju svake stranice se nalazi deo za recenzije gde svako moze da napise svoje ime, komentar i ocenu i na taj nacin nam pomogne da unapredimo nas sajt.
+Pored toga klikom na dugme "prikazi sve recenzije" otvara se forma u kojoj se nalaze svi podaci o dosadasnjim recenzijama iz baze podataka.
+Klikom na dugme "prikazi moje recenzije" otvara se deo preko koga je moguce pretraziti dosadasnje recenzije iz nase baze tako sto cete prvo upisati vase ime a zatim na dugme "pronadji" koje ce izlistati sve recenzije koje odgovaraju unetom imenu.
+Nakon toga prondjenu recenziju je moguce po potrebi izmeniti ili obrisati klikom na jedno od ova dva dugmeta.
+U slucaju da uneto ime ne postoji u bazi na ekranu ce se pojaviti poruka o tome.

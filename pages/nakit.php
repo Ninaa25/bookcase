@@ -51,7 +51,7 @@
             <div class="col-3">
                 <img src="../images/slika9.jpg" alt="">
             </div> 
-            <div class="col-1"><p>PINK torbica je #musthave!!</p></div>
+            <div class="col-1"><p>PINK torbica je #musthave</p></div>
         </div>
         <div class="row">
             <div class="col-3">

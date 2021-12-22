@@ -46,7 +46,7 @@ class Database{
             if($order!=null){
                 $q.=" ORDER BY ".$order;
             }
-        }else if($table=="newsletter"){
+        }else if($table=="newslettter"){
             $q="SELECT ".$column." FROM ".$table;
             if($where!=null){
                 $q.=" WHERE ".$where;
@@ -74,12 +74,10 @@ class Database{
             $komentar=$values[1];
             $ocena=$values[2];
             $q="INSERT INTO ".$table." (korisnicko_ime,komentar,ocena) VALUES ('".$korisnicko_ime."','".$komentar."',".$ocena.")";
-        }else if($table=="newsletter"){
+        }else if($table=="newslettter"){
             $ime=$values[0];
             $mail=$values[1];
             $q="INSERT INTO ".$table." (ime,email) VALUES ('".$ime."','".$mail."')";
-        }else{
-            throw new Exception("GRESKA! nije dobar naziv tabele");
         }
         if($this->executeQuery($q)){
             return true;
